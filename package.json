@@ -19,7 +19,7 @@
 	],
 	"type": "module",
 	"devDependencies": {
-		"@types/node": "^13.13.4",
+		"@types/node": "^13.13.52",
 		"mocha": "^7.1.2",
 		"typescript": "^3.8.3"
 	},
